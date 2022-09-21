@@ -7,7 +7,7 @@ import { View, Text, StyleSheet, FlatList, TouchableOpacity, Image, Pressable, A
 import LinearGradient from 'react-native-linear-gradient'
 import { TextInput } from 'react-native-paper'
 import { moderateScale } from 'react-native-size-matters';
-import { ArrowLeft, Trash } from 'phosphor-react-native';
+import { ArrowLeft } from 'phosphor-react-native';
 
 // Component
 
